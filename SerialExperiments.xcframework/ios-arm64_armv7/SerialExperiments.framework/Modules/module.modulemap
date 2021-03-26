@@ -1,0 +1,6 @@
+framework module SerialExperiments {
+  umbrella header "SerialExperiments.h"
+
+  export *
+  module * { export * }
+}
