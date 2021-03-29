@@ -92,8 +92,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files = '*.xcframework/Headers/*.{h,m,swift}'
+  spec.ios.deployment_target = '10.0'
+  spec.ios.vendored_frameworks = 'SerialExperiments.xcframework'
 
-
-  s.ios.deployment_target = '10.0'
-  s.ios.vendored_frameworks = 'SerialExperiments.xcframework'
 end
