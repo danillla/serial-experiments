@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files = '*.xcframework/Headers/*.{h,m,swift}'
+  # spec.source_files = '*.{h,m,swift}'
   spec.ios.deployment_target = '10.0'
   spec.ios.vendored_frameworks = 'SerialExperiments.xcframework'
 
