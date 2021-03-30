@@ -7,6 +7,6 @@ Pod::Spec.new do |spec|
   spec.author       = { "Daniil Alferov" => "daniil.alferov@gmail.com" }
   spec.platform     = :ios, "10.0"
   spec.source       = { :git => "https://github.com/danillla/serial-experiments.git", :tag => "#{spec.version}" }
-  spec.deployment_target = '10.0'
+  # spec.ios.deployment_target = '10.0'
   spec.vendored_frameworks = 'SerialExperiments.xcframework'
 end
