@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/SerialExperiments.h</key>
 		<data>
-		2O30GUYU/GRBc0gdPeT9Ungu/cU=
+		tYrS6+RWOKn21wHR/oUP9BYJ3mA=
 		</data>
 		<key>Headers/SerialExperimentsAPI.h</key>
 		<data>
-		6uKLCgLJ/cg/QG8Vi97CobT9K+U=
+		7dyb9PQJT3JFL9onY0sWWWSebSM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GWhaZCBh3kZ+StAQcLKUpvylr50=
+		mwkkgokXKzciSm6aXfchOrrip8g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,22 +27,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2O30GUYU/GRBc0gdPeT9Ungu/cU=
+			tYrS6+RWOKn21wHR/oUP9BYJ3mA=
 			</data>
 			<key>hash2</key>
 			<data>
-			OOyJoDn3s92E7VuPjWRqquZ7YOUO3xZDdsztU8a8cfA=
+			WBI1XLYzc8tpYW4uWU/ks/KPHQD/GWQyZk3beIerYK8=
 			</data>
 		</dict>
 		<key>Headers/SerialExperimentsAPI.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6uKLCgLJ/cg/QG8Vi97CobT9K+U=
+			7dyb9PQJT3JFL9onY0sWWWSebSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4cvglk2/uCFwwK6DCnPpoRF6GRqVZvBRr/Y8i14syrI=
+			QzXeU0D/vzO5iwcc2coMfhIDJf30i8fGNRyjMhI/eGU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
