@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name         = "SerialExperiments"
   spec.version      = "1.0.2"
-  spec.summary      = "A short description of SerialExperiments."
+  spec.summary      = "This summary should be long enough that the system should recognize it as meaningful."
   spec.homepage     = "http://google.com"
   spec.license      = { :type => "MIT" , :file => "LICENSE"}
   spec.author       = { "Daniil Alferov" => "daniil.alferov@gmail.com" }
