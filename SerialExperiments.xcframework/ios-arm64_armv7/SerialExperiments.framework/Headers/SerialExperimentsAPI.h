@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)experimentThree;
 + (void)experimentFour;
 + (void)experimentFive;
++ (void)experimentSix;
 
 @end
 
