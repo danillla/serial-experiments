@@ -1,12 +1,12 @@
-Pod::Spec.new do |spec|
-  spec.name         = "SerialExperiments"
-  spec.version      = "1.0.2"
-  spec.summary      = "This summary should be long enough that the system should recognize it as meaningful."
-  spec.homepage     = "http://google.com"
-  spec.license      = { :type => "MIT" , :file => "LICENSE"}
-  spec.author       = { "Daniil Alferov" => "daniil.alferov@gmail.com" }
-  spec.platform     = :ios, "10.0"
-  spec.source       = { :git => "https://github.com/danillla/serial-experiments.git", :tag => "#{spec.version}" }
-  # spec.ios.deployment_target = '10.0'
-  spec.vendored_frameworks = 'SerialExperiments.xcframework'
+Pod::Spec.new do |s|
+  s.name         = "SerialExperiments"
+  s.version      = "1.0.4"
+  s.summary      = "This summary should be long enough that the system should recognize it as meaningful."
+  s.homepage     = "http://google.com"
+  s.license      = { :type => "MIT" , :file => "LICENSE"}
+  s.author       = { "Daniil Alferov" => "daniil.alferov@gmail.com" }
+  s.platform     = :ios, "10.0"
+  s.source       = { :git => "https://github.com/danillla/serial-experiments.git", :tag => "#{s.version}" }
+  s.ios.deployment_target = '10.0'
+  s.vendored_frameworks = 'SerialExperiments.xcframework'
 end
