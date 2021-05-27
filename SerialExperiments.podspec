@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SerialExperiments"
-  s.version      = "1.0.4"
+  s.version      = "1.0.5"
   s.summary      = "This summary should be long enough that the system should recognize it as meaningful."
   s.homepage     = "http://google.com"
   s.license      = { :type => "MIT" , :file => "LICENSE"}
