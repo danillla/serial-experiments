@@ -1,13 +1,11 @@
-name: CocoaPods
 on:
   push:
-    branches:
-    - master
-    
+    tags:
+      - '*'
+name: CocoaPods Release
 jobs:
-  build:
+  Release_Pod:
     runs-on: macOS-latest
-    
     steps:
     - uses: actions/checkout@v2
     - name: Publish to CocoaPod register
